@@ -10,14 +10,14 @@ Project has a test class which represents the following scenario:
   * click on each section (IT CONSULTING, MANAGEMENT CONSULTING....) 
   * it is supposed to redirect to a specific page when clicked
   * click on the "Send" button, a form opens.
-  * it works incorrectly
+
 
 Services page:
-  * it works incorrectly
+  * 
 
  Form Send:
   * send form was tested
-  * it works incorrectly
+
 ## Prerequisites Software/Tools
 
 1. Java Development Kit (Java 19)
@@ -29,9 +29,9 @@ Services page:
 
 ## Installation/Running Tests
 
-`git clone https://github.com/Furmanova`
+`git clone https://github.com/Furmanova/outsourcing.ankhora`
 
-`cd /`
+`cd outsourcing.ankhora/`
 
 `mvn test`
 
