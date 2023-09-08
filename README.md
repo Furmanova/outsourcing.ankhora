@@ -1,21 +1,19 @@
-## web-automation
+## outsourcing.ankhora web-automation
 
 This is the web test automation project for testing https://outsourcing.ankhora.co.uk/ website. It was built using Java 19, Selenide 6, JUnit frameworks.
 
 ## Tests
 
 Project has a test class which represents the following scenario:
-  
- Main page:
+
+Main page:
   * click on each section (IT CONSULTING, MANAGEMENT CONSULTING....) 
   * it is supposed to redirect to a specific page when clicked
   * click on the "Send" button, a form opens.
 
+Services page
 
-Services page:
-  
-
- Form Send:
+Form Send:
   * send form was tested
 
 ## Prerequisites Software/Tools
