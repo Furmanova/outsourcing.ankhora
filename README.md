@@ -13,7 +13,7 @@ Project has a test class which represents the following scenario:
 
 
 Services page:
-  * 
+  
 
  Form Send:
   * send form was tested
